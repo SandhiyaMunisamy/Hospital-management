@@ -1,12 +1,20 @@
 Welcome to Hospital Management
 
-Name of the patient: Sandhiya
+Name of the Physician: Sandhiya
 
-Patient Id:200
+Physician Id:200
 
 Age:23
 
 Date:6/6/2019
 
 Contact Number:7502987295
+
+Physician Address:Katpadi
+
+Person to contact for Emergency: vasanth(8012242260)
+
+Physician Referral:Dr.Shanthi
+
+
 
