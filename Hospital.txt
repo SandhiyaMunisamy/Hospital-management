@@ -1,0 +1,12 @@
+Welcome to Hospital Management
+
+Name of the patient: Sandhiya
+
+Patient Id:200
+
+Age:23
+
+Date:6/6/2019
+
+Contact Number:7502987295
+
