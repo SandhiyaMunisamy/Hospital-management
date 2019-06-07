@@ -1,2 +1,3 @@
 # Hospital-management
-process involved in hopspitals
+process involved in hospitals
+process checked
